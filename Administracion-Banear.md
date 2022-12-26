@@ -1,1 +1,1 @@
-#Tare finalizada con exito
+# Tare finalizada con exito
